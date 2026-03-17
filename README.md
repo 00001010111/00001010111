@@ -32,4 +32,4 @@ Here are some of the technologies I work with:
 ## 📫 Connect with Me
 - [Roblox Profile](https://www.roblox.com/users/1554965577/profile)  
 - [LinkedIn](https://www.linkedin.com/in/enzo-agustoni-37b25a3a3/)  
-- [Twitter]((https://x.com/mvvvvvvvp))  
+- [Twitter](https://x.com/mvvvvvvvp)  

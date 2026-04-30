@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00001010111&layout=donut&theme=radical)](https://github.com/00001010111/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=00001010111&show_icons=true) 
+![Stats](https://github-readme-stats.vercel.app/api?username=00001010111&include_all_commits=true&hide_title=true&hide_rank=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=00001010111&theme=radical)  
 
 ---
